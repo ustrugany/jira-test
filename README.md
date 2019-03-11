@@ -2,6 +2,6 @@
 jira-test
 
 ## TODO:
-- [ ] task1
+- [x] task1
 - [ ] task2
 - [ ] task3
